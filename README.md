@@ -1,2 +1,1 @@
-# learn-go
-学习Go
+# 学习Go
